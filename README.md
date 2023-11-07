@@ -1,7 +1,6 @@
 # WebTextSummarizer
 A Python tool for quick and easy web page text extraction and summarization. Ideal for generating concise summaries from web articles.
 
-```markdown
 # Text Summarization from Web Pages
 
 This Python script allows you to extract and summarize text content from web pages. It uses the `newspaper3k` library for web scraping and article extraction and provides an option for more comprehensive output by including the article's title, publication date, and source URL.
